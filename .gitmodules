@@ -1,0 +1,6 @@
+[submodule "src/addons/ofxNI2"]
+	path = src/addons/ofxNI2
+	url = https://github.com/satoruhiga/ofxNI2.git
+[submodule "src/addons/ofxUI"]
+	path = src/addons/ofxUI
+	url = https://github.com/rezaali/ofxUI.git
